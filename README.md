@@ -11,5 +11,7 @@ Retrofit for networking
 
 Room for offline database
 
+ViewModel&LiveData to update UI
+
 --Created by Hamid Algiri--
 
