@@ -1,5 +1,5 @@
 # MyOfflineNews
-This app is created to fetch news from NEWSAPI .
+This app  created to fetch news from NEWSAPI .
 
 Fetch the news and  store them locally into room database ,display them in recycler view .
 
